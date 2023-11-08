@@ -23,7 +23,3 @@ Thanks to [Browserstack](https://www.browserstack.com) for providing a free lice
 <a href="https://www.browserstack.com">
   <img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" alt="Browserstack" width="150">
 </a>  
-
-
-## Documentation and demo page
-<https://robinherbots.github.io/Inputmask/>
