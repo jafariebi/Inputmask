@@ -4,8 +4,6 @@ Copyright (c) 2010 - 2023 Robin Herbots Licensed under the MIT license (<https:/
 
 The Inputmask has a very permissive license and this will stay that way.  But when you use the Inputmask in a commercial setting, be so honest to make a small donation.
 This will be appreciated very much.
-
-[![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZNR3EB6JTMMSS)
   
 ![npm](https://img.shields.io/npm/v/inputmask) ![npm (tag)](https://img.shields.io/npm/v/inputmask/next) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/inputmask)
 
